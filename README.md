@@ -26,6 +26,11 @@ chmod +x ./samba.sh
 ## Thực thi    
 ### Để thuận tiện cho việc cấu hình trên VMWare ta cấu hình mạng lại như sau:
 ![alt text](vm.jpg)
+### Cài đặt lại mạng CentOS và Window
+#### CentOS
+![alt text](Cen.jpg)
+#### Window
+![alt text](Win.jpg)
 ### Chạy file và cấu hình theo prompt.
 ```
 sudo ./samba.sh

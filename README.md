@@ -30,7 +30,7 @@ chmod +x ./samba.sh
 #### CentOS
 ![alt text](Cen.jpg)
 #### Window
-![alt text](Win.jpg)
+![alt text](win.jpg)
 ### Chạy file và cấu hình theo prompt.
 ```
 sudo ./samba.sh

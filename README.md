@@ -1,4 +1,4 @@
-# Cấu hình DNS trên CentOS với Autoscript    
+# Cấu hình Samba CentOS với Autoscript    
 
 ## Trước khi dùng lệnh yum để cài gói bất ki cần chỉnh
 ![alt text](Cat-Chan.jpg)
